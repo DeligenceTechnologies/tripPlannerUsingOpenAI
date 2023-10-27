@@ -1,4 +1,5 @@
 # Trip Planner Web App 
+    It plans your sight seeing trip to given Country/State. 
 
 # Technologies Used:-
     OpenAI :- https://openai.com
@@ -12,6 +13,6 @@
     2- Add openAI Authorization Bearer token to App.js.
     3- Run npm start.
 
-![traslation](https://deligence.s3.ap-south-1.amazonaws.com/trip-planner/trip-planner1.png)
+![tripPlanner](https://deligence.s3.ap-south-1.amazonaws.com/trip-planner/trip-planner1.png)
 
-![traslation](https://deligence.s3.ap-south-1.amazonaws.com/trip-planner/trip-planner2.png)
+![tripPlanner](https://deligence.s3.ap-south-1.amazonaws.com/trip-planner/trip-planner2.png)
