@@ -13,6 +13,6 @@
     2- Add openAI Authorization Bearer token to App.js.
     3- Run npm start.
 
-![tripPlanner](https://deligence.s3.ap-south-1.amazonaws.com/trip-planner/trip-planner1.png)
+![tripPlanner](https://deligence.s3.ap-south-1.amazonaws.com/trip-planner/trip-planner-1.png)
 
-![tripPlanner](https://deligence.s3.ap-south-1.amazonaws.com/trip-planner/trip-planner2.png)
+![tripPlanner](https://deligence.s3.ap-south-1.amazonaws.com/trip-planner/trip-planner-2.png)
