@@ -1,6 +1,6 @@
 # Trip Planner Web App 
     A trip planner bot made using OpenAI's ChatGPT model. 
-    This bot can help you plan your next trip from scratch, taking into account your interests and travel preferences. 
+    This bot helps you to plan your trip from scratch, taking into account your interests and travel preferences. 
     This bot can generate a personalized itinerary based on your interests.
 
 # Technologies Used:-
