@@ -1,5 +1,7 @@
 # Trip Planner Web App 
-    It plans your sight seeing trip to given Country/State. 
+    A trip planner bot made using OpenAI's ChatGPT model. 
+    This bot can help you plan your next trip from scratch, taking into account your interests and travel preferences. 
+    This bot can generate a personalized itinerary based on your interests.
 
 # Technologies Used:-
     OpenAI :- https://openai.com
